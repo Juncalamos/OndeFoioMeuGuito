@@ -4,7 +4,7 @@ import Header from "../components/Header";
 import MySlider from "../components/Slider";
 import { useState } from "react";
 import  Footer  from "../components/Footer";
-import styles from '../css/desktop/style';
+import styles from '../public/css/desktop/style';
 
 const arrayRenumeração = [
   1.95, 0.55, 0.6, 0.7, 0.85, 0.85, 1, 1, 1.2, 1.9, 1.95, 3.6, 4.75, 7, 5.35,

@@ -19,14 +19,14 @@ html, body {
 
 @font-face {
   font-family: 'AnticSlab';
-  src: url('./fonts/AnticSlab-Regular.ttf') format('truetype');
+  src: url('../public/fonts/AnticSlab-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Amiri';
-  src: url('./fonts/AmiriQuran-Regular.ttf') format('truetype');
+  src: url('../public/fonts/AmiriQuran-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
